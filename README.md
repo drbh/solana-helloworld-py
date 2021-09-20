@@ -16,6 +16,11 @@ Get repo.
 
 ```bash
 git clone https://github.com/drbh/solana-helloworld-py.git
+cd solana-helloworld-py
+
+# add folders we'll use in the example
+mkdir keys # for our private key file
+mkdir dist # for the compiled program
 ```
 
 Make a key pair for deployment.
