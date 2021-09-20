@@ -15,7 +15,7 @@ You should be able to copy and paste your way through this full example and inte
 Get repo. 
 
 ```bash
-git clone solana-helloworld-py
+git clone https://github.com/drbh/solana-helloworld-py.git
 ```
 
 Make a key pair for deployment.
